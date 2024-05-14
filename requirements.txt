@@ -100,3 +100,4 @@ virtualenv-clone==0.5.7
 virtualenvwrapper==4.8.4
 Werkzeug==3.0.2
 wrapt==1.16.0
+gunicorn
